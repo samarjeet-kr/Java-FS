@@ -1,0 +1,25 @@
+{
+    "user":[
+        {
+        "id":1,
+        "username" : "Mario",
+        "email" : "mario@google.com"
+        },
+        {
+        "id":2,
+        "username" : "Shaun",
+        "email" : "shaun@google.com"
+        },
+        {
+        "id":3,
+        "username" : "Jack",
+        "email" : "Jack@google.com"
+        },
+        {
+        "id":4,
+        "username" : "Yoahu",
+        "email" : "Yoahu@google.com"
+        }
+    ]
+
+}
