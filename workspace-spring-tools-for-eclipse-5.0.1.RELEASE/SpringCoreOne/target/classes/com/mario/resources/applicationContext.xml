@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    
+    <bean id="stdBean1" class="com.mario.beans.Student">
+    		<property name="roll" value="13"/>
+    		<property name="name" value="Samarjeet"/>
+    		<property name="Marks" value="89"/>
+    </bean>
+	
+	<bean id="stdBean2" class="com.mario.beans.Student">
+    		<property name="roll" value="23"/>
+    		<property name="name" value="Uday"/>
+    		<property name="Marks" value="90"/>
+    </bean>
+</beans>
